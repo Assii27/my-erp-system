@@ -38,3 +38,4 @@ Open your browser and go to http://localhost:3000 to view the application.
 ## Contributing
 
 Contributions to this project are welcome. If you would like to contribute, please fork the repository, make your changes, and submit a pull request.
+
