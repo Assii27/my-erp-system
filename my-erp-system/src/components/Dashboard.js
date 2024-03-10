@@ -12,7 +12,7 @@ function Dashboard() {
           <li>Total number of products: 600</li>
           <li>Total number of orders: 70</li>
           {/* Add more Product Summary */}
-          <li>Revenue for the month: $ 10,000</li>
+          <li>Revenue for the month: Rs 10,000</li>
           <li>Number of pending orders: 10</li>
           {/* Add more Product Summary */}
         </ul>

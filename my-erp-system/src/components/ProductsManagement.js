@@ -138,7 +138,7 @@ function ProductsManagement() {
             <tr key={product.id}>
               <td>{product.name}</td>
               <td>{product.category}</td>
-              <td>${product.price}</td>
+              <td>Rs: {product.price}</td>
               <td>{product.stockQuantity}</td>
               <td>
                 <button onClick={() => handleEdit(product)}>Edit</button>
