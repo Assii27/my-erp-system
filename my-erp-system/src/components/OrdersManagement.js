@@ -9,7 +9,7 @@ function OrdersManagement() {
       customerName: "Saniya Maner",
       orderDate: "2024-03-08",
       status: "Pending",
-      details: "Product added put payment is not done..!",
+      details: "Product added but payment is not done..!",
     },
     {
       id: 2,
